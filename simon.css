@@ -17,12 +17,13 @@ section {
   background-color: #3c6088;
   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6);
   padding: 25px;
-  max-width: 1050px;
+  max-width: 1000px;
   margin: 44px auto 24px auto;
   border-radius: 12px;
 }
 .head {
-  font-size: 2.5rem;
+  font-size: 2.2
+    rem;
   color: #d8f4f4;
   text-shadow: 2px 0 #555;
 }
@@ -39,8 +40,8 @@ section {
   cursor: pointer;
   display: inline-block;
   margin: 25px;
-  height: 200px;
-  width: 200px;
+  height: 180px;
+  width: 180px;
   border: 10px solid black;
   border-radius: 20%;
   transition: all 0.3s ease;
